@@ -276,8 +276,10 @@ Makefile: ../CoinFlip/CoinFlip.pro E:/software/QT/QT5.14.2/5.14.2/mingw73_64/mks
 		E:/software/QT/QT5.14.2/5.14.2/mingw73_64/mkspecs/features/yacc.prf \
 		E:/software/QT/QT5.14.2/5.14.2/mingw73_64/mkspecs/features/lex.prf \
 		../CoinFlip/CoinFlip.pro \
+		E:/software/QT/QT5.14.2/5.14.2/mingw73_64/lib/Qt5Multimedia.prl \
 		E:/software/QT/QT5.14.2/5.14.2/mingw73_64/lib/Qt5Widgets.prl \
 		E:/software/QT/QT5.14.2/5.14.2/mingw73_64/lib/Qt5Gui.prl \
+		E:/software/QT/QT5.14.2/5.14.2/mingw73_64/lib/Qt5Network.prl \
 		E:/software/QT/QT5.14.2/5.14.2/mingw73_64/lib/Qt5Core.prl \
 		E:/software/QT/QT5.14.2/5.14.2/mingw73_64/lib/qtmain.prl \
 		E:/software/QT/QT5.14.2/5.14.2/mingw73_64/mkspecs/features/build_pass.prf \
@@ -489,8 +491,10 @@ E:/software/QT/QT5.14.2/5.14.2/mingw73_64/mkspecs/features/exceptions.prf:
 E:/software/QT/QT5.14.2/5.14.2/mingw73_64/mkspecs/features/yacc.prf:
 E:/software/QT/QT5.14.2/5.14.2/mingw73_64/mkspecs/features/lex.prf:
 ../CoinFlip/CoinFlip.pro:
+E:/software/QT/QT5.14.2/5.14.2/mingw73_64/lib/Qt5Multimedia.prl:
 E:/software/QT/QT5.14.2/5.14.2/mingw73_64/lib/Qt5Widgets.prl:
 E:/software/QT/QT5.14.2/5.14.2/mingw73_64/lib/Qt5Gui.prl:
+E:/software/QT/QT5.14.2/5.14.2/mingw73_64/lib/Qt5Network.prl:
 E:/software/QT/QT5.14.2/5.14.2/mingw73_64/lib/Qt5Core.prl:
 E:/software/QT/QT5.14.2/5.14.2/mingw73_64/lib/qtmain.prl:
 E:/software/QT/QT5.14.2/5.14.2/mingw73_64/mkspecs/features/build_pass.prf:

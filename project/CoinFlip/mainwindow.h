@@ -3,7 +3,7 @@
 
 #include <QMainWindow>
 #include "mypushbutton.h"
-
+#include "chooselevelscene.h"
 QT_BEGIN_NAMESPACE
 namespace Ui { class MainWindow; }
 QT_END_NAMESPACE
@@ -17,8 +17,10 @@ public:
     ~MainWindow();
 
     void paintEvent(QPaintEvent *);
+    ChooseLevelScene *chooseScene = nullptr;
 
 private:
     Ui::MainWindow *ui;
+
 };
 #endif // MAINWINDOW_H
